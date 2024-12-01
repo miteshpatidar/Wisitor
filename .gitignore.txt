@@ -1,0 +1,18 @@
+# Ignore all JAR files
+
+*.jar
+
+# Ignore compiled files
+*.class
+
+# Ignore build output
+build/
+
+# Ignore Eclipse project files
+.classpath
+.project
+.settings/
+
+# Ignore temporary files
+*.log
+*.tmp
